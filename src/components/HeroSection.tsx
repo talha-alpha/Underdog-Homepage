@@ -116,7 +116,7 @@ export default function HeroSection() {
       </div>
 
       {/* Logo Marquee */}
-      <div className="w-full overflow-hidden bg-[#070C14]">
+      <div className="w-full overflow-hidden">
   <div className="relative flex flex-col justify-center items-center gap-10 py-12 min-h-[196px]">
     <p className="text-center text-white/40 text-sm">
       Trusted by Trainers and Academies Nationwide
